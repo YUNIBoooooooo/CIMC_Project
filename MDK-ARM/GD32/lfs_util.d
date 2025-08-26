@@ -1,0 +1,9 @@
+.\gd32\lfs_util.o: ..\Components\GD25QXX\lfs_util.c
+.\gd32\lfs_util.o: ..\Components\GD25QXX\lfs_util.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\gd32\lfs_util.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
